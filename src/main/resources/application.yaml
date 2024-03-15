@@ -1,0 +1,8 @@
+server:
+  # \u7AEF\u53E3\u53F7
+  port: 12541
+spring:
+  application:
+    # \u5E94\u7528\u540D
+    name: backend-template
+
